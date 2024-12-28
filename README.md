@@ -1,10 +1,6 @@
-- 👋 Hi, I’m @Rakeshducs
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning ML, working as Jr. Full Stack Developer Senior QA Engineer in AIOT Technologies.
-- 💞️ I’m looking to collaborate on Full Stack AI Developer.
-- 📫 How to reach me LinkedIn.
-
-<!---
-Rakeshducs/Rakeshducs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m @Rakeshducs  
+- 👀 I’m interested in Web Development and Front-End Frameworks.  
+- 🌱 I’m currently working as a Senior Angular Developer with 3+ years of experience.  
+- 💻 Previously, I worked as a Jr. Full Stack Developer (ASP.Net) with 6+ months of experience.  
+- 🚀 I am a passionate programmer, always eager to learn new updates for the Angular Framework and cutting-edge technologies.  
+- 📫 How to reach me: [LinkedIn](#)  
